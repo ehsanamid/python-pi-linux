@@ -2,6 +2,7 @@
 
 def main(msg):
    // change from P1
-    print(msg)
+   // change P4
+   print(msg)
 
 main("Hello")
